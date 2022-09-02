@@ -1,2 +1,2 @@
 # KI_SU_PROHI_aiHeart
-Create AI program that predict Congestive Heart Failure
+Create AI program that predicts Congestive Heart Failure
